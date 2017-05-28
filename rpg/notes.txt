@@ -1,0 +1,5 @@
+/=====================\
+| Notes for RPG Tiles |
+\=====================/
+
+* For rocky walls, put the edges on your lower object layer instead of the ground layer, as they are transparent.

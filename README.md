@@ -4,9 +4,9 @@ This repository is for hosting sprite and tileset resources for various games to
 
 ## License
 
-All images in this repo are licensed under CC-BY-4.0.
+All images in this repo are licensed under CC-BY-SA 4.0 and GNU General Public License 3.0.
 
-You are free to copy, share, modify, and make commercial projects using these assets. You may use them in closed source works as well. For attribution, please leave a link to kelvinshadewing.net.
+You are free to copy, share, modify, and make commercial projects using these assets, provided they are used in open-source GPL-compatible projects. For attribution, please leave a link to kelvinshadewing.net.
 
 ## Contribution
 
